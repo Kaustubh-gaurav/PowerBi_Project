@@ -1,4 +1,5 @@
 ## Pbix link - https://drive.google.com/file/d/1dngUuFSwvSqN7Uhi-TXMu7jvToJqiAvM/view?usp=sharing
+## Data link - [https://drive.google.com/file/d/1dngUuFSwvSqN7Uhi-TXMu7jvToJqiAvM/view?usp=sharing](https://drive.google.com/file/d/1opTeG-3OybCuO8-2rC_R_VYTiXlEwFUW/view?usp=sharing)
 
 
 # 📊 Data Jobs Dashboard 2.0
