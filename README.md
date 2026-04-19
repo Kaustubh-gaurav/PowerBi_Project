@@ -1,3 +1,6 @@
+## Pbix link - https://drive.google.com/file/d/1dngUuFSwvSqN7Uhi-TXMu7jvToJqiAvM/view?usp=sharing
+
+
 # 📊 Data Jobs Dashboard 2.0
 
 An interactive Power BI dashboard analyzing **479,000+ real job postings** from April to December 2024 — built to help job seekers, students, and hiring professionals explore the global data job market.
